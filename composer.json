@@ -82,6 +82,7 @@
         "drupal/views_conditional": "^1.0",
         "drupal/views_data_export": "^1.0",
         "drupal/views_field_view": "^1.0@beta",
+        "drupal/views_fields_on_off": "^2.0",
         "drupal/views_fieldsets": "^4.0",
         "drupal/views_selective_filters": "1.x-dev",
         "drupal/views_slideshow": "^5.0",
